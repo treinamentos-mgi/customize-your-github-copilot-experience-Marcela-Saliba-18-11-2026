@@ -65,6 +65,13 @@
       "description": "Crie uma API REST com FastAPI para cadastrar, listar, atualizar e remover tarefas, usando Pydantic e os métodos HTTP GET, POST, PUT e DELETE.",
       "path": "assignments/rest-apis-fastapi",
       "dueDate": "2026-11-25"
+    },
+    {
+      "id": "functions-in-python",
+      "title": "Functions in Python",
+      "description": "Crie funções em Python com parâmetros e retorno para organizar e reutilizar código.",
+      "path": "assignments/functions-in-python",
+      "dueDate": "2026-11-25"
     }
   ]
 }
