@@ -58,6 +58,13 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "rest-apis-fastapi",
+      "title": "Building REST APIs with FastAPI",
+      "description": "Crie uma API REST com FastAPI para cadastrar, listar, atualizar e remover tarefas, usando Pydantic e os métodos HTTP GET, POST, PUT e DELETE.",
+      "path": "assignments/rest-apis-fastapi",
+      "dueDate": "2026-11-25"
     }
   ]
 }
